@@ -2,7 +2,7 @@
 
 - `npm i` to install packages
 - `npm start` to open the app
-- open http://localhost:3000/
+- open http://localhost:3000/ in broswer 
 
 ## Web content
 
